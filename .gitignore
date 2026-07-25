@@ -1,34 +1,43 @@
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
 *.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
 
 # Keystore files
 *.jks
 *.keystore
+*.pem
+*.p12
+*.key
+key.properties
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Orphaned directories (not part of Anodyne Android)
+/mp7/
+/mp7-windows/**
+/app - Copy/
 
-# Android Profiling
-*.hprof
+# Build artifacts
+/app/release/
+*.apk
+
+# Temp/dev files
+/build_log.txt
+/diff_all.txt
+/diff_settings.txt
+/fix_tabs.py
+/fix_tabs2.py
+/temp_tabs.kt
+
+# Agent/workflow files
+/.agent/
