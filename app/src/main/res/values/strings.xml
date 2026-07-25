@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anodyne</string>
+    <string name="search_placeholder">Search files or folders</string>
+</resources>
