@@ -1,12 +1,14 @@
+🎵*Anodyne*
+
+A minimal, offline-first music player for Android — no permissions asked.
+
 <p align="center">
   <img width="200" alt="Settings" src="https://github.com/user-attachments/assets/73c303f6-9707-4986-adb8-24a92af55a2b" />
   <img width="200" alt="Playlist" src="https://github.com/user-attachments/assets/47b6d973-0b82-495c-9f04-9452501cbee5" />
   <img width="200" alt="Home" src="https://github.com/user-attachments/assets/f1a71996-46e2-4ef5-95dd-8bf13c35bb16" />
   <img width="200" alt="Currently_playing" src="https://github.com/user-attachments/assets/4487cf91-e1d8-42b1-b346-9cb0f3c2242f" />
 </p>
-# Anodyne
 
-A minimal, offline-first music player for Android — no permissions asked.
 
 ## Features
 
